@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AlexsanderBelow
-- 👀 I’m interested in pawn and servers CRMP, CRMP Mobail and Pyrhon
+- 👋  Hi! I am Warning Exception developing games and bots in Python, PAWN, C#. Developer and Founder of Classic CRMP!
 
 <!---
 AlexsanderBelow/AlexsanderBelow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
